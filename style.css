@@ -1,0 +1,55 @@
+body{
+    background-image: url(lucu.webp);
+    background-repeat: no-repeat;
+}
+a{
+    color: red;
+}
+.u1{
+    color: blue;
+}
+.l1 , .l2{
+    color: black;
+    font-family: arial;
+    font-weight: bold;
+}
+#ge{
+    color: blue;
+}
+#ge2{
+    color: fuchsia;
+}
+.o1 , .o3{
+    color: fuchsia;
+    font-family: 'Times New Roman', Times, serif;
+}
+.o2{
+    color: yellow;
+    font-style: italic;
+}
+.img{
+    background-color: aqua;
+    text-align: center;
+  
+}
+img{
+    border-radius: 250px;
+}
+.p1{
+    text-align: center;
+    color: brown;
+    font-weight: bold;
+}
+#p1{
+    text-align: center;
+    color: black;
+}
+.p1 , #p1{
+    background-image: url(bung.jpg);
+}
+video{
+    height: 200px;
+    width: 25opx;
+    
+
+}
